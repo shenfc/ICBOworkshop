@@ -1,0 +1,67 @@
+My apology for cross posting.
+
+The Workshop on Leveraging Biological and Biomedical Ontology to Facilitate Translational Biomedical Informatics, in conjunction with the International Conference on Biological Ontology 2018
+
+
+Workshop URL: https://shenfc.github.io/ICBOworkshop/Workshops.html 
+
+Submission: Please submit paper through easychair: https://easychair.org/conferences/?conf=botbi2018
+
+
+Corvallis, OR, USA
+
+August 7-10, 2018
+
+Oregon State University
+
+http://icbo2018.cgrb.oregonstate.edu/
+
+
+Overview
+
+In recent years, a large number of ontologies have been introduced for biomedical research and clinical practice. As a result, there exist increasing demands on knowledge discovery and sharing of large scale biomedical data. The first notable effort shown by the biomedical and scientific community toward connecting scattered biomedical data is to materialize them through the open data movement (i.e., the Linked Data, bio2RDF, OBO). In the field of translational biomedical informatics, biomedical ontologies are always viewed as important knowledge pieces to facilitate the development of innovative analytic methods and tools to transform large amount of biomedical and genomic data into meaningful clinical and biomedical knowledge. It will largely accelerate information exchange to achieve the goal of transforming research outputs to clinical practice (bench-to-bedside), in order to conduct biomedical knowledge discovery and improve health services and patient care outcomes.
+
+Topics
+
+The topics of interest include but not limited to:
+
+I. Knowledge Discovery and Data Mining in Individualized Medicine
+
+ 
+
+II. Knowledge and Data Integration in Individualized Medicine
+
+ 
+
+III. Deep Learning in Individualized Medicine
+
+ 
+
+IV. Other Work Related to Individualized Medicine Informatics
+
+
+Important Dates
+
+
+June 20, 2018, 11:59 pm EDT: Due date for full workshop papers submission
+
+July 10, 2018: Notification of acceptance
+
+July 20, 2018: Camera-ready of accepted papers
+
+
+Contact
+
+If you have any question, please feel free to contact the workshop chair Feichen Shen via shen.feichen@mayo.edu
+
+
+
+
+
+
+
+
+
+
+
+
